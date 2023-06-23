@@ -8,7 +8,7 @@
 
 ## The Team
 
-- The team solvers, consisted of 3 ESI students, are presenting you their project in aim to win the THINKAI HACKATHON.
+- The team SOLVERs, consisted of 3 ESI students, are presenting you their project in aim to win the THINKAI HACKATHON.
 
 ---
 
